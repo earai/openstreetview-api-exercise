@@ -29,5 +29,5 @@ Assumptions: docker and docker-compose are available on the machine being used
 
    Formatted geojson output is stored in the geojson_output directory and can be inspected via text editor.
 
+<img width="1265" height="680" alt="image" src="https://github.com/user-attachments/assets/eff94007-202d-4075-8ae4-8625f5467fe3" />
 
-<img width="1238" height="714" alt="image" src="https://github.com/user-attachments/assets/afcd5454-f70e-4437-8d64-491c3f3cdf15" />
