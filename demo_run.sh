@@ -16,7 +16,7 @@ mkdir -p geojson_output
 
 echo "The data base is initially empty "
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
 echo
 
 echo
