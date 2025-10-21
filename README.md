@@ -5,7 +5,10 @@ Prompt: Create a REST API that has endpoints for different types of data (roads,
 A REST API using the FastAPI framework and PostGIS database is implemented. Two exemplar endpoints are implemented, one for roads and one for amenities. Both take a geojson polygon as input.
 
 
-Limitations: ...
+### Limitations/To Dos:
+This implementation does not handle identifying the missing data from a partially overlapping polygon and fetching only that data from OSM. This is in progress in another working repo.\
+
+Overpass sometimes times out when requests are made. It would be useful for endpoints to be able to have a real or mock data mode. This feature is also in progress in the aforemnetioned working repo.
 
 
 ## Getting started:
@@ -13,7 +16,7 @@ Limitations: ...
    Docker and docker-compose are available on the machine being used
 
 1. Clone the repository: \
-   git clone ...
+   git clone https://github.com/earai/openstreetview-api-exercise.git
 
 2. Build the docker image \
    docker build -t osm-fastapi-api .
