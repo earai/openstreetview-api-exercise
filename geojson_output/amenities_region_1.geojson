@@ -1,0 +1,3276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357555400,
+        "tags": {
+          "ele": "607",
+          "name": "Biltmore Special School",
+          "amenity": "school",
+          "gnis:feature_id": "855302"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1369444,
+          36.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357555787,
+        "tags": {
+          "ele": "617",
+          "name": "Divine Providence Variety Day Home",
+          "amenity": "school",
+          "gnis:feature_id": "856959"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1455568,
+          36.1833034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357555804,
+        "tags": {
+          "ele": "610",
+          "name": "First Christian Church Child Development Center",
+          "amenity": "school",
+          "gnis:feature_id": "856964"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1378764,
+          36.1745615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357555888,
+        "tags": {
+          "ele": "568",
+          "name": "Echoes Christian Academy",
+          "amenity": "school",
+          "gnis:feature_id": "856991"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1238897,
+          36.1813595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357555891,
+        "tags": {
+          "ele": "571",
+          "name": "Carousel Christian Child Development Center",
+          "amenity": "school",
+          "gnis:feature_id": "856992"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1247229,
+          36.1777485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357556488,
+        "tags": {
+          "ele": "567",
+          "name": "Halle Hewetson Elementary School",
+          "amenity": "school",
+          "gnis:feature_id": "858019"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1225006,
+          36.1760818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357556596,
+        "tags": {
+          "ele": "623",
+          "name": "Madison Sixth Grade Center School",
+          "amenity": "school",
+          "gnis:feature_id": "858076"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1563904,
+          36.1827477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357556798,
+        "tags": {
+          "ele": "598",
+          "name": "Saint Joseph Elementary School",
+          "amenity": "school",
+          "gnis:feature_id": "858170"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1328466,
+          36.1621151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357564326,
+        "tags": {
+          "ele": "614",
+          "name": "Federal Station Post Office",
+          "access": "private",
+          "amenity": "post_office",
+          "operator": "United States Postal Service",
+          "short_name": "USPS",
+          "operator:type": "public",
+          "operator:short": "USPS",
+          "gnis:feature_id": "865007",
+          "operator:website": "https://www.usps.com",
+          "operator:wikidata": "Q668687",
+          "operator:wikipedia": "en:United States Postal Service"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.143611,
+          36.1663595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357566393,
+        "tags": {
+          "ele": "618",
+          "name": "Variety Early Learning Center",
+          "amenity": "school",
+          "gnis:feature_id": "2088527"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.147,
+          36.1818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357566765,
+        "tags": {
+          "ele": "618",
+          "name": "Bethel Baptist Church",
+          "amenity": "place_of_worship",
+          "religion": "christian",
+          "denomination": "baptist",
+          "gnis:feature_id": "2472830"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1472313,
+          36.1821446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357566807,
+        "tags": {
+          "ele": "574",
+          "name": "Calvary Lutheran Church",
+          "amenity": "place_of_worship",
+          "religion": "christian",
+          "denomination": "lutheran",
+          "gnis:feature_id": "2472843"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1257752,
+          36.1777905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357567026,
+        "tags": {
+          "ele": "579",
+          "name": "Echoes of Faith Church",
+          "amenity": "place_of_worship",
+          "religion": "christian",
+          "gnis:feature_id": "2472881"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1283064,
+          36.1816172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357567062,
+        "tags": {
+          "ele": "622",
+          "name": "Faith Temple of Church of God in Christ True Holiness",
+          "amenity": "place_of_worship",
+          "religion": "christian",
+          "gnis:feature_id": "2472890"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1531365,
+          36.1821838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357567213,
+        "tags": {
+          "ele": "618",
+          "name": "Greater New Jerusalem Church",
+          "amenity": "place_of_worship",
+          "religion": "christian",
+          "gnis:feature_id": "2472928"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1469108,
+          36.1832336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357568669,
+        "tags": {
+          "ele": "621",
+          "name": "New Hope Christian Church",
+          "amenity": "place_of_worship",
+          "religion": "christian",
+          "gnis:feature_id": "2473599"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1510723,
+          36.1813103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357568750,
+        "tags": {
+          "ele": "624",
+          "name": "Pilgrim Rest Missionary Baptist Church",
+          "amenity": "place_of_worship",
+          "religion": "christian",
+          "denomination": "baptist",
+          "gnis:feature_id": "2473621"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1571383,
+          36.1824853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 357568758,
+        "tags": {
+          "ele": "623",
+          "name": "Powerhouse Church of God in Christ",
+          "amenity": "place_of_worship",
+          "religion": "christian",
+          "gnis:feature_id": "2473623"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1565925,
+          36.1824807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1941783919,
+        "tags": {
+          "name": "Bar + Bistro",
+          "phone": "+1 702 3833133",
+          "amenity": "pub",
+          "addr:street": "E. Charleston Boulevard",
+          "addr:postcode": "89104",
+          "addr:housenumber": "107"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1525474,
+          36.1590954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2142152005,
+        "tags": {
+          "url": "https://www.hennesseyslasvegas.com",
+          "name": "Hennessey's Tavern",
+          "phone": "+1 702-382-4421",
+          "amenity": "pub",
+          "addr:city": "Las Vegas",
+          "addr:unit": "110",
+          "wheelchair": "yes",
+          "addr:street": "Fremont Street",
+          "addr:postcode": "89101",
+          "opening_hours": "Su-Th 11:00-24:00; Fr 11:00-02:00; Sa 09:00-02:00",
+          "addr:housenumber": "425"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.141039,
+          36.169191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2143510294,
+        "tags": {
+          "name": "Downtown Cocktail Room",
+          "phone": "+17028803696",
+          "amenity": "bar",
+          "website": "https://thedowntownlv.com/"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1406654,
+          36.1689254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2146969419,
+        "tags": {
+          "name": "Denny's",
+          "brand": "Denny's",
+          "amenity": "restaurant",
+          "cuisine": "american",
+          "brand:wikidata": "Q1189695"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1414844,
+          36.169961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2148184438,
+        "tags": {
+          "name": "Uncle Joe's",
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "addr:street": "Fremont Street",
+          "addr:housenumber": "505"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1404268,
+          36.1689735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2149942888,
+        "tags": {
+          "name": "Kabob Korner",
+          "amenity": "restaurant",
+          "cuisine": "kebab",
+          "addr:street": "Fremont Street",
+          "addr:housenumber": "507"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1403593,
+          36.1689436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2161291762,
+        "tags": {
+          "name": "Mob Bar",
+          "amenity": "bar"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1412274,
+          36.1721967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2162916504,
+        "tags": {
+          "name": "Carson Street Café",
+          "amenity": "cafe"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1455666,
+          36.1695993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2162916506,
+        "tags": {
+          "name": "Lillie's Asian Cuisine",
+          "amenity": "restaurant"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.145702,
+          36.1693651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2296641037,
+        "tags": {
+          "name": "Rachel's Kitchen",
+          "amenity": "restaurant"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1399689,
+          36.17002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2562441785,
+        "tags": {
+          "name": "Wild",
+          "phone": "702-527-7717",
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "addr:city": "Las Vegas",
+          "addr:street": "North Las Vegas Boulevard",
+          "addr:postcode": "89101",
+          "addr:housename": "Suite 120",
+          "addr:housenumber": "150"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1395302,
+          36.1700687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2611278212,
+        "tags": {
+          "name": "Inspire Theater",
+          "amenity": "theatre",
+          "operator": "Downtown Project"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1405908,
+          36.1690325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2645244780,
+        "tags": {
+          "name": "Andiamo Italian Steakhouse",
+          "phone": "+1 702 388 2220",
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "website": "https://www.thed.com/dining/andiamo-steakhouse/",
+          "addr:city": "Las Vegas",
+          "addr:street": "Fremont Street Experience",
+          "addr:postcode": "89101",
+          "addr:housenumber": "301"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.142748,
+          36.1695221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2669698757,
+        "tags": {
+          "name": "D Grill",
+          "phone": "+1 702 388 2400",
+          "amenity": "restaurant",
+          "website": "https://www.thed.com/dining/the-d-grill/",
+          "addr:city": "Las Vegas",
+          "addr:street": "Fremont Street Experience",
+          "addr:postcode": "89101",
+          "addr:housenumber": "301"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.142522,
+          36.1695613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2889675524,
+        "tags": {
+          "url": "https://coinatmradar.com/bitcoin_atm/69375/bitcoin-atm-lamassu-las-vegas-the-d-casino-hotel/",
+          "name": "Hilt Bitcoin ATM",
+          "level": "0",
+          "branch": "The D Casino & Hotel",
+          "indoor": "yes",
+          "amenity": "atm",
+          "cash_in": "yes",
+          "website": "https://www.hiltventures.com/the-d-casino-hotel-1st-and-2nd-floor-locations-las-vegas-nv-fremont-st",
+          "cash_out": "yes",
+          "operator": "Hilt",
+          "check_date": "2025-04-24",
+          "currency:USD": "yes",
+          "currency:XBT": "yes",
+          "payment:cash": "yes",
+          "opening_hours": "24/7",
+          "payment:onchain": "yes"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1430276,
+          36.1691907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3222882891,
+        "tags": {
+          "amenity": "cafe"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1405147,
+          36.1690133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3284569202,
+        "tags": {
+          "name": "HellPop! in the Arts Factory",
+          "phone": "(702) 518-0767",
+          "amenity": "arts_centre",
+          "website": "https://dtlvarts.com/",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "East Charleston Boulevard",
+          "addr:postcode": "89104",
+          "addr:housenumber": "107",
+          "payment:litecoin": "yes"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.152777,
+          36.1590525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3360075557,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1373657,
+          36.1694666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3678389999,
+        "tags": {
+          "amenity": "wedding_chapel"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1489157,
+          36.1560699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4006489769,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1419064,
+          36.168404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4006489771,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1420005,
+          36.1684475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4006489774,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1421381,
+          36.1689966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4472854794,
+        "tags": {
+          "bus": "yes",
+          "name": "Greyhound",
+          "amenity": "bus_station",
+          "addr:street": "Main Street",
+          "addr:housenumber": "200",
+          "public_transport": "station"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1475753,
+          36.1703648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4636415218,
+        "tags": {
+          "male": "yes",
+          "access": "yes",
+          "amenity": "toilets",
+          "toilets:disposal": "flush"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1372045,
+          36.1561667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4636415219,
+        "tags": {
+          "access": "yes",
+          "female": "yes",
+          "amenity": "toilets",
+          "toilets:disposal": "flush"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1372091,
+          36.1561308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4698718557,
+        "tags": {
+          "name": "PublicUs",
+          "phone": "(702) 331-5500",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "website": "publicuslv.com",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "Fremont Street",
+          "addr:postcode": "89101",
+          "addr:housenumber": "1126"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1329716,
+          36.1657827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4975714760,
+        "tags": {
+          "fee": "yes",
+          "ref": "3553",
+          "name": "Premium Outlets",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "14",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "South Grand Central Parkway",
+          "addr:postcode": "89106",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "509",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1554901,
+          36.166358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4992925892,
+        "tags": {
+          "fee": "yes",
+          "ref": "3551",
+          "name": "3rd & Hoover",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "14",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "Hoover Avenue",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "300",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1488529,
+          36.1610175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4992943224,
+        "tags": {
+          "fee": "yes",
+          "ref": "3552",
+          "name": "Pawn Stars - Garces & Las Vegas Boulevard",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "12",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "Garces Avenue",
+          "addr:postcode": "89101",
+          "official_name": "PAWN STARS-Garces & Las Vegas Blvd",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "521",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1448286,
+          36.1620164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8187643610,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1390824,
+          36.1696855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8402522519,
+        "tags": {
+          "name": "Bad Owl Coffee Roasters",
+          "amenity": "cafe"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1439014,
+          36.1673285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4992971821,
+        "tags": {
+          "ref": "3565",
+          "name": "Zappos Bike Share",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "fixme": "Exact location?",
+          "phone": "844-641-7823",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://rtcbikeshare.bcycle.com",
+          "capacity": "12",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "East Stewart Avenue",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "400",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1393631,
+          36.1717746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993021134,
+        "tags": {
+          "fee": "yes",
+          "ref": "3566",
+          "name": "Downtown Grand - 3rd & Stewart",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "17",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "East Stewart Avenue",
+          "addr:postcode": "89101",
+          "official_name": "Downtown Grand 3rd & Stewart",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "206",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1414478,
+          36.1723052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993034736,
+        "tags": {
+          "ref": "3564",
+          "name": "Container Park Bike Share",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "844-641-7823",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://rtcbikeshare.bcycle.com",
+          "capacity": "21",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "Fremont Street",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "723",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1376721,
+          36.167898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993054943,
+        "tags": {
+          "fee": "yes",
+          "ref": "3563",
+          "name": "PublicUs - Maryland & Fremont",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "11",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "South Maryland Parkway",
+          "addr:postcode": "89101",
+          "official_name": "PublicUs Maryland & Fremont",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "100",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.133148,
+          36.1653105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993086712,
+        "tags": {
+          "fee": "yes",
+          "ref": "3561",
+          "name": "City Center Apartments - 8th & Bridger",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "15",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "South 8th Street",
+          "addr:postcode": "89101",
+          "official_name": "CITY CENTER APTS 8th & Bridger",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "201",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1385303,
+          36.1655695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993098499,
+        "tags": {
+          "fee": "yes",
+          "ref": "3560",
+          "name": "Bank of America - 4th & Bridger",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "16",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "South 4th Street",
+          "addr:postcode": "89101",
+          "official_name": "BANK OF AMERICA 4th & Bridger",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "300",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1438139,
+          36.1668439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993103844,
+        "tags": {
+          "fee": "yes",
+          "ref": "3559",
+          "name": "City Hall",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "8",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "South 1st Street",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "428",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1479961,
+          36.1668501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993121160,
+        "tags": {
+          "fee": "yes",
+          "ref": "3558",
+          "name": "10th & Fremont",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "12",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "North 10th Street",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "106",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.134754,
+          36.167005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993141946,
+        "tags": {
+          "ref": "3556",
+          "name": "Huntridge Plaza Bike Share",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "844-641-7823",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://rtcbikeshare.bcycle.com",
+          "capacity": "11",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "South Maryland Parkway",
+          "addr:postcode": "89104",
+          "operator:type": "private",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "1125",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1371629,
+          36.1581557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993157531,
+        "tags": {
+          "fee": "yes",
+          "ref": "3555",
+          "name": "3rd & Bonneville",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "14",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "East Bonneville Avenue",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "115",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1469071,
+          36.1643309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993171411,
+        "tags": {
+          "fee": "yes",
+          "ref": "3548",
+          "name": "The English Hotel - Main & Coolidge",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "10",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "West California Avenue",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "24",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1539054,
+          36.1575454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4993173144,
+        "tags": {
+          "ref": "3550",
+          "name": "Arts District Bike Share",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "844-641-7823",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://rtcbikeshare.bcycle.com",
+          "capacity": "12",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "South Main Street",
+          "addr:postcode": "89104",
+          "operator:type": "private",
+          "brand:wikidata": "Q104727968",
+          "addr:housenumber": "1041",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1529925,
+          36.1597121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5218646321,
+        "tags": {
+          "name": "McDonald's",
+          "brand": "McDonald's",
+          "phone": "+1 702-385-2975",
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "website": "https://www.mcdonalds.com/us/en-us/location/18964.html",
+          "takeaway": "yes",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "Fremont Street",
+          "addr:postcode": "89101",
+          "opening_hours": "24/7",
+          "brand:wikidata": "Q38076",
+          "internet_access": "wlan",
+          "addr:housenumber": "301"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1420671,
+          36.1696634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5350010048,
+        "tags": {
+          "name": "Bank of America",
+          "brand": "Bank of America",
+          "amenity": "atm",
+          "operator": "Bank of America",
+          "wheelchair": "no",
+          "drive_through": "yes",
+          "brand:wikidata": "Q487907",
+          "operator:wikidata": "Q487907",
+          "operator:wikipedia": "en:Bank of America"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1441357,
+          36.1674699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5520634069,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1429607,
+          36.1593578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5525425002,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1452371,
+          36.1691612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5827479985,
+        "tags": {
+          "name": "Banger Brewing",
+          "amenity": "bar"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1409447,
+          36.1695185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5905951625,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1476901,
+          36.1699927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5910635519,
+        "tags": {
+          "bus": "no",
+          "ele": "609",
+          "fee": "yes",
+          "hgv": "no",
+          "name": "Tesla Supercharger",
+          "note": "This Tesla Supercharger was edited or added by the June 2025 import from supercharge.info... if you have any questions, comments, or concerns, please reach out to the US Slack / Forum",
+          "brand": "Tesla Supercharger",
+          "access": "customers",
+          "source": "https://supercharge.info",
+          "amenity": "charging_station",
+          "bicycle": "no",
+          "maxstay": "no",
+          "network": "Supercharger",
+          "scooter": "no",
+          "website": "https://www.tesla.com/findus/location/supercharger/lasvegassupercharger",
+          "brand:en": "Tesla Supercharger",
+          "capacity": "6",
+          "motorcar": "designated",
+          "operator": "Tesla",
+          "addr:city": "Las Vegas",
+          "frequency": "0",
+          "addr:state": "NV",
+          "start_date": "2014-02-19",
+          "addr:street": "Bridger Avenue",
+          "reservation": "no",
+          "socket:nacs": "6",
+          "addr:country": "US",
+          "addr:postcode": "89101",
+          "brand:website": "https://www.tesla.com/supercharger",
+          "opening_hours": "24/7",
+          "brand:wikidata": "Q17089620",
+          "network:website": "https://www.tesla.com/supercharger",
+          "addr:housenumber": "701",
+          "network:wikidata": "Q17089620",
+          "operator:wikidata": "Q478214",
+          "payment:app:tesla": "yes",
+          "authentication:app": "yes",
+          "operator:wikipedia": "en:Tesla, Inc.",
+          "socket:nacs:output": "120",
+          "ref:supercharge_info": "157"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.13866,
+          36.16591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6025803177,
+        "tags": {
+          "ref": "11849",
+          "name": "Starbucks",
+          "brand": "Starbucks",
+          "phone": "+1 702-861-4913",
+          "branch": "Golden Nugget Fremont Street",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "website": "https://www.starbucks.com/store-locator/store/11849/golden-nugget-fremont-street-129-east-fremont-st-las-vegas-nv-891015603-us",
+          "takeaway": "yes",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "East Fremont Street",
+          "addr:postcode": "89101",
+          "official_name": "Starbucks Coffee",
+          "brand:wikidata": "Q37158",
+          "addr:housenumber": "129"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1448248,
+          36.170872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6025803178,
+        "tags": {
+          "ref": "17915",
+          "name": "Starbucks",
+          "brand": "Starbucks",
+          "phone": "+1 702-861-4913",
+          "branch": "Golden Nugget West Lobby",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "website": "https://www.starbucks.com/store-locator/store/17915/golden-nugget-west-lobby-129-east-fremont-st-las-vegas-nv-891015603-us",
+          "takeaway": "yes",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "East Fremont Street",
+          "addr:postcode": "89101",
+          "official_name": "Starbucks Coffee",
+          "brand:wikidata": "Q37158",
+          "addr:housenumber": "129"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1460974,
+          36.1693823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6025803525,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1464847,
+          36.1695389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6228618585,
+        "tags": {
+          "name": "Eureka",
+          "amenity": "bar"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1396631,
+          36.168962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6256498885,
+        "tags": {
+          "name": "reBar",
+          "amenity": "bar",
+          "website": "https://rebarlv.com/",
+          "addr:city": "Las Vegas",
+          "addr:street": "South Main Street",
+          "addr:postcode": "89104",
+          "opening_hours": "Mo-Sa 12:00-24:00; Su 00:00-02:00,12:00-24:00",
+          "addr:housenumber": "1225"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1535043,
+          36.1565826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6638835709,
+        "tags": {
+          "note": "Container Park",
+          "brand": "Dero",
+          "amenity": "bicycle_repair_station",
+          "opening_hours": "24/7",
+          "service:bicycle:pump": "yes",
+          "service:bicycle:tools": "yes"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1383343,
+          36.1680135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7096281529,
+        "tags": {
+          "name": "Davy's",
+          "amenity": "pub"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1534929,
+          36.1567161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7383102292,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1436938,
+          36.1715042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7383102293,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1434741,
+          36.1714188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8187643609,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1391542,
+          36.1695753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8449409598,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.146029,
+          36.1727409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8449409602,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1463033,
+          36.1722985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8591230205,
+        "tags": {
+          "ref": "C",
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1294378,
+          36.1786544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8591230206,
+        "tags": {
+          "ref": "D",
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1278499,
+          36.1799469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8851233194,
+        "tags": {
+          "atm": "yes",
+          "name": "Coin Cloud",
+          "amenity": "bank",
+          "website": "https://staging.coincloudatm.com/atms/Nevada/Las%20Vegas/coin-cloud-4677",
+          "currency:BCH": "yes"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1437526,
+          36.1672546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9483794117,
+        "tags": {
+          "name": "The Cheesecake Factory",
+          "brand": "The Cheesecake Factory",
+          "amenity": "restaurant",
+          "cuisine": "american",
+          "alt_name": "Cheesecake Factory",
+          "brand:wikidata": "Q1045842"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1569766,
+          36.1660781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9810305573,
+        "tags": {
+          "amenity": "parking",
+          "parking": "surface"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1476747,
+          36.1566621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9812235418,
+        "tags": {
+          "amenity": "motorcycle_parking"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1420857,
+          36.1729033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9938663880,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1558467,
+          36.1710653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9938663882,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.157331,
+          36.1695656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10289092742,
+        "tags": {
+          "name": "At Peace Home Care",
+          "phone": "725-215-5375",
+          "amenity": "social_facility",
+          "website": "https://atpeacehomehealth.org",
+          "addr:city": "Las Vegas",
+          "addr:unit": "#500",
+          "addr:state": "NV",
+          "addr:street": "South 4th Street",
+          "addr:country": "US",
+          "addr:postcode": "89101",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "social_facility": "nursing_home",
+          "addr:housenumber": "400",
+          "social_facility:for": "senior"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.144379,
+          36.1661901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10598488905,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1505537,
+          36.170515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10752230496,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1471388,
+          36.1721594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10985005212,
+        "tags": {
+          "name": "Sure Thing Chapel",
+          "amenity": "events_venue"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1335088,
+          36.1660114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10985005215,
+        "tags": {
+          "name": "A Public Fit Theatre Company",
+          "amenity": "arts_centre"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1330832,
+          36.1658289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10985005216,
+        "tags": {
+          "name": "The Usual Place",
+          "amenity": "bar"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1330623,
+          36.165551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11002698456,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1453662,
+          36.1749833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11002698457,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1446391,
+          36.1751901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11133044251,
+        "tags": {
+          "name": "Cat's Meow",
+          "amenity": "bar"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1410917,
+          36.1697443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11133044252,
+        "tags": {
+          "name": "The Nerd",
+          "amenity": "bar"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1405174,
+          36.170172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11175963276,
+        "tags": {
+          "name": "Rebel Weddings",
+          "phone": "+1-702-703-7307",
+          "amenity": "events_venue",
+          "website": "https://www.rebelweddings.com",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "E Bonneville Ave",
+          "description": "Wedding Chapels",
+          "addr:postcode": "89101",
+          "opening_hours": "Mo-Su 10:00-18:00",
+          "addr:housenumber": "919",
+          "payment:credit_cards": "yes"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.143924,
+          36.1672378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11205914661,
+        "tags": {
+          "name": "Vegas Vickie's Cocktail Lounge",
+          "amenity": "bar",
+          "min_age": "21",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:street": "Fremont Street",
+          "addr:postcode": "89101",
+          "opening_hours": "09:30-03:00",
+          "addr:housenumber": "8"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1451634,
+          36.172389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11219298088,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1433159,
+          36.169376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11374884587,
+        "tags": {
+          "name": "Vic's",
+          "amenity": "restaurant",
+          "indoor_seating": "yes",
+          "outdoor_seating": "yes"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1535665,
+          36.1684837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11669549640,
+        "tags": {
+          "name": "Kung Pao Wok",
+          "amenity": "fast_food",
+          "cuisine": "american_chinese"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1578698,
+          36.1638385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11669549641,
+        "tags": {
+          "name": "Subway",
+          "brand": "Subway",
+          "phone": "+1 702-939-6920",
+          "amenity": "fast_food",
+          "cuisine": "sandwich",
+          "website": "https://restaurants.subway.com/united-states/nv/las-vegas/755-s-grand-central-pkwy",
+          "takeaway": "yes",
+          "addr:city": "Las Vegas",
+          "addr:unit": "1480",
+          "addr:state": "NV",
+          "addr:street": "Grand Central Parkway",
+          "addr:postcode": "89106",
+          "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+          "brand:wikidata": "Q244457",
+          "addr:housenumber": "755"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1577962,
+          36.1638111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11669549642,
+        "tags": {
+          "name": "Villa Fresh",
+          "amenity": "fast_food",
+          "cuisine": "italian"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1577155,
+          36.1637722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11669549643,
+        "tags": {
+          "name": "Green Leaf's",
+          "amenity": "fast_food"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1576235,
+          36.1637379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11669549644,
+        "tags": {
+          "name": "South Philly",
+          "amenity": "fast_food"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1575314,
+          36.1636991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11669936451,
+        "tags": {
+          "name": "Auntie Anne's",
+          "brand": "Auntie Anne's",
+          "amenity": "fast_food",
+          "cuisine": "pretzel",
+          "takeaway": "yes",
+          "brand:wikidata": "Q4822010"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1576476,
+          36.1647753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11861167000,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484472,
+          36.1738451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11944226454,
+        "tags": {
+          "name": "Tomo Noodles",
+          "amenity": "fast_food",
+          "cuisine": "asian"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1425036,
+          36.1713388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11944226456,
+        "tags": {
+          "name": "Huey Magoos Chicken Tenders",
+          "amenity": "fast_food",
+          "cuisine": "chicken"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1426225,
+          36.1713437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11944226458,
+        "tags": {
+          "name": "Steak 'n Shake",
+          "brand": "Steak 'n Shake",
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "website": "https://www.steaknshake.com/locations/nv-las-vegas-fremont-hotel/",
+          "takeaway": "yes",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "check_date": "2025-05-30",
+          "survey:date": "2025-05-25",
+          "addr:country": "US",
+          "currency:XBT": "yes",
+          "addr:postcode": "89101",
+          "opening_hours": "Mo-Su 12:00-24:00",
+          "brand:wikidata": "Q7605233",
+          "payment:onchain": "no",
+          "payment:lightning": "yes",
+          "check_date:currency:XBT": "2025-05-30",
+          "payment:lightning_contactless": "no"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1426013,
+          36.1712696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11944226460,
+        "tags": {
+          "name": "Roli Roti",
+          "amenity": "fast_food"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.142559,
+          36.1713594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11944226463,
+        "tags": {
+          "amenity": "food_court"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1425706,
+          36.1713123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11944226464,
+        "tags": {
+          "name": "Dunkin'",
+          "brand": "Dunkin'",
+          "amenity": "fast_food",
+          "cuisine": "donut;coffee_shop",
+          "alt_name": "Dunkin' Donuts",
+          "takeaway": "yes",
+          "brand:wikidata": "Q847743"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1425418,
+          36.1712797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12091343585,
+        "tags": {
+          "amenity": "bar"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1456368,
+          36.1714943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12091343586,
+        "tags": {
+          "amenity": "bar"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1458749,
+          36.1713945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12091343587,
+        "tags": {
+          "name": "American Coney Island",
+          "amenity": "restaurant",
+          "cuisine": "hot_dog",
+          "opening_hours": "24/7"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1424558,
+          36.1699081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12183757648,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1413897,
+          36.1702209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12183757652,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1412808,
+          36.1703919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309768293,
+        "tags": {
+          "fee": "yes",
+          "ref": "7762",
+          "name": "Charleston & Burnham",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "4",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89104",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.12339,
+          36.15875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309768294,
+        "tags": {
+          "fee": "yes",
+          "ref": "7761",
+          "name": "Fremont Street Urban Lofts",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "4",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.12227,
+          36.16123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309768295,
+        "tags": {
+          "fee": "yes",
+          "ref": "7760",
+          "name": "Fremont & Bruce",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "4",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.12544,
+          36.16259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309768296,
+        "tags": {
+          "fee": "yes",
+          "ref": "7756",
+          "name": "Bruce & Ogden",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "4",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.12496,
+          36.1645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309768297,
+        "tags": {
+          "fee": "yes",
+          "ref": "7754",
+          "name": "The Center",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "4",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1354628,
+          36.1614003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309785001,
+        "tags": {
+          "fee": "yes",
+          "ref": "4613",
+          "name": "11th & Stewart",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "11",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.13233,
+          36.16845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309785002,
+        "tags": {
+          "fee": "yes",
+          "ref": "4329",
+          "name": "shareDowntown - Casino Center & Colorado",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "12",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89104",
+          "official_name": "shareDowntown-Casino Center & Colorado",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.15272,
+          36.15598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309785003,
+        "tags": {
+          "fee": "yes",
+          "ref": "4315",
+          "name": "1st & Ogden",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "12",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.14424,
+          36.17266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309785004,
+        "tags": {
+          "fee": "yes",
+          "ref": "4182",
+          "name": "Arts District - Casino Center",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "12",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.15226,
+          36.1579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309785005,
+        "tags": {
+          "fee": "yes",
+          "ref": "3923",
+          "name": "El Cortez - 7th & Fremont",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "21",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "official_name": "El Cortez 7th & Fremont",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1386,
+          36.1684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12309785007,
+        "tags": {
+          "fee": "yes",
+          "ref": "3835",
+          "name": "11th & Garces",
+          "brand": "RTC Bike Share",
+          "email": "support@bikeshare.rtcsnv.com",
+          "phone": "+1 844-641-7823",
+          "rental": "city_bike;ebike",
+          "amenity": "bicycle_rental",
+          "network": "RTC Bike Share",
+          "website": "https://bikeshare.rtcsnv.com",
+          "capacity": "10",
+          "operator": "Bicycle Transit Systems",
+          "addr:city": "Las Vegas",
+          "addr:state": "NV",
+          "addr:postcode": "89101",
+          "operator:type": "private",
+          "bicycle_rental": "docking_station",
+          "brand:wikidata": "Q104727968",
+          "network:wikidata": "Q104727968",
+          "operator:wikidata": "Q104005517"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.13838,
+          36.15939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12508484396,
+        "tags": {
+          "name": "Greens and Proteins",
+          "amenity": "restaurant",
+          "website": "https://greensandproteins.com/",
+          "addr:city": "Las Vegas",
+          "addr:unit": "191",
+          "addr:state": "NV",
+          "addr:street": "East Bonneville Avenue",
+          "addr:postcode": "89101",
+          "addr:housenumber": "353"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1458762,
+          36.1638527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12840991478,
+        "tags": {
+          "name": "Babystacks",
+          "level": "0",
+          "phone": "+1-702-380-8229",
+          "amenity": "restaurant",
+          "cuisine": "breakfast;american",
+          "website": "https://www.babystackslv.com/",
+          "addr:city": "Las Vegas",
+          "addr:unit": "150",
+          "addr:state": "NV",
+          "addr:street": "South Main Street",
+          "website:menu": "https://www.babystackslv.com/our-menu",
+          "addr:postcode": "89101",
+          "opening_hours": "Mo-Fr 08:00-14:00; Sa, Su 07:00-15:00",
+          "addr:housenumber": "500"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1496288,
+          36.1669635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12969220136,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1530101,
+          36.165846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13009319922,
+        "tags": {
+          "amenity": "bicycle_parking",
+          "covered": "no",
+          "capacity": "5",
+          "bicycle_parking": "wave"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1314727,
+          36.1829248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13172551508,
+        "tags": {
+          "name": "Broken Yolk Cafe",
+          "phone": "+1 702-954-3430",
+          "amenity": "restaurant",
+          "website": "https://www.thebrokenyolkcafe.com/location/fremont-street-las-vegas-nv/",
+          "addr:street": "201 S Las Vegas Blvd"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.141365,
+          36.1678335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13238546659,
+        "tags": {
+          "amenity": "parking_entrance"
+        },
+        "type": "node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.143833,
+          36.1719671
+        ]
+      }
+    }
+  ]
+}
