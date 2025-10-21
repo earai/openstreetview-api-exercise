@@ -27,14 +27,15 @@ Limitations: ...
       - Returns counts (total entries, entries with key=amenity, entries with key = highway) on that database table to stdout
       - Checks cache, queries OSM for road data in the green region
       - Writes road data to public.osm_cache
-      - Returns updated counts on the database
+      - Returns updated counts on the database to stdout
       - Request for the same amenity data as before is issued, the cache is checked and no new API calls to OSM are issued
       - Returns counts on the database again
-      - Request for amenity data in the area that overlaps the 
-
+      - Request for amenity data in the purple area that overlaps the green road area.
+      - Cache is checked, and data is requested from OSM since the objects have different keys (amenity vs highway)
+      - Data is written to database
+      - Returns updated counts on the database to stdout
       
-
-   Formatted geojson output is stored in the geojson_output directory and can be inspected via text editor.
+   Formatted geojson output from each Overpass request is stored in the geojson_output directory and can be inspected via text editor.
 
 <img width="1265" height="680" alt="image" src="https://github.com/user-attachments/assets/eff94007-202d-4075-8ae4-8625f5467fe3" />
 
