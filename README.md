@@ -12,10 +12,10 @@ Limitations: ...
 ### Assumptions: 
    Docker and docker-compose are available on the machine being used
 
-1. Clone the repository: 
+1. Clone the repository: \
    git clone ...
 
-2. Build the docker image
+2. Build the docker image \
    docker build -t osm-fastapi-api .
 
 3. Run ./demo_run.sh \
@@ -25,7 +25,12 @@ Limitations: ...
       - Queries OSM for amenity data in the blue region
       - Populates amenity data in the blue region into PostGIS database table public.osm_cache
       - Returns counts (total entries, entries with key=amenity, entries with key = highway) on that database table to stdout
-      - Queries OSM for road data in the green region
+      - Checks cache, queries OSM for road data in the green region
+      - Writes road data to public.osm_cache
+      - Returns updated counts on the database
+      - Request for the same amenity data as before is issued, the cache is checked and no new API calls to OSM are issued
+      - Returns counts on the database again
+      - Request for amenity data in the area that overlaps the 
 
       
 
