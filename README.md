@@ -6,7 +6,7 @@ A REST API using the FastAPI framework and PostGIS database is implemented. Two 
 
 
 ### Limitations/To Dos:
-This implementation does not handle identifying the missing data from a partially overlapping polygon and fetching only that data from OSM. This is in progress in another working repo.\
+This implementation does not handle identifying the missing data from a partially overlapping polygon and fetching only that data from OSM. This is in progress in another working repo.
 
 Overpass sometimes times out when requests are made. It would be useful for endpoints to be able to have a real or mock data mode. This feature is also in progress in the aforemnetioned working repo.
 
