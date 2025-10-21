@@ -41,15 +41,15 @@ curl -X POST "http://localhost:8000/osm/amenity/polygon"   -H "accept: applicati
 echo
 echo "Now get the total entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
 echo
 echo "Next ask for the total amenity entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='amenity';"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='amenity';"
 echo
 echo "Now the total number of road entries (we expect zero, since we haven't requested that type of data yet)"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='highway';"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='highway';"
 echo
 
 echo
@@ -72,13 +72,13 @@ echo -e "Count the number of entries in the database now"
 echo
 echo "Count the total entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
 echo "Count the total amenity entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='amenity';"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='amenity';"
 echo "Count the total road entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='highway';"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='highway';"
 echo
 echo
 echo -e "Next, request the same amenity data from before. Confirm that \n no new entries are actually requested since \n
@@ -100,13 +100,13 @@ curl -s -o /dev/null -w "%{http_code}\n" -X POST "http://localhost:8000/osm/amen
 
 echo "Total entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
 echo "Total amenity entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='amenity';"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='amenity';"
 echo "Total road entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='highway';"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='highway';"
 echo
 echo
 
@@ -126,13 +126,13 @@ curl -X POST "http://localhost:8000/osm/amenity/polygon"   -H "accept: applicati
 echo
 echo "There amenity objects will be added to the database, they overlap partially in area with the road data but are a different type of data"
 echo "Total database entries:"
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache;"
 echo "Total amenity entries in the data base (should have increased)"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='amenity';"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='amenity';"
 echo "Total road entries in the data base"
 echo
-docker exec -it osm-postgis psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='highway';"
+docker exec -it osm-postgis-db psql -U postgres -d osm -c "SELECT COUNT(*) FROM public.osm_cache WHERE query_key='highway';"
 echo
 
 echo
