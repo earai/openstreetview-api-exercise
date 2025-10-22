@@ -11,6 +11,8 @@ This implementation does not handle identifying the missing data from a partiall
 
 Overpass sometimes times out when requests are made. It would be useful for endpoints to be able to have a real or mock data mode. This feature is also in progress in the aforementioned working repo.
 
+Database design is very simple. 
+
 Tests! Tests. There are no tests. Yikes.
 
 
