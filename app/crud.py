@@ -20,12 +20,7 @@ def is_area_covered(session: Session, aoi_wkt: str, key: Optional[str], value: O
             4326
         )
     ); """
-    result_tmp = session.execute(text(sql), params)
-    #pull_new_poly = session.fetchone()
-    print("RESULT_TMP :", type(result_tmp), result_tmp)
     result = session.execute(text(sql), params).first()
-    print("RESULT     :", type(result))
-    #print(f"result: {result}")
     if not result:
         return False
     return bool(result[0])
@@ -44,18 +39,13 @@ def get_cached_features_intersecting(session: Session, aoi_wkt: str, key: Option
         where_clause += " AND query_value = :v"
         params["v"] = value
 
-    print("params", params)
-    print("where clause", where_clause)
-
     sql = f"""
     SELECT id, ST_AsGeoJSON(geom) as geom_json, properties
     FROM osm_cache
     WHERE ST_Intersects(geom, ST_GeomFromText(:aoi,4326)) {where_clause}
     """
 
-    print('sql', sql)
     rows = session.execute(text(sql), params).all()
-    print("number of rows", len(rows))
     features = []
     for r in rows:
         geom_json = json.loads(r[1]) if r[1] else None
