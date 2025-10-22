@@ -5,12 +5,11 @@ from fastapi import FastAPI, Body, Depends, Query
 from sqlmodel import Session
 
 from app.db import init_db, get_session
-from app.utils import fetch_osm_by_polygon, load_mock_file, create_polygon_from_geojson_features, \
-    write_mock_geojson_to_db
+from app.utils import fetch_osm_by_polygon, write_mock_geojson_to_db
 
 app = FastAPI(title="OSM FastAPI with PostGIS Cache")
 MOCK_FILE_PATH=os.getenv("MOCK_FILE_PATH","./tests/test_data")
-mock_amenity_file = "amenities_region1.geojson"
+mock_amenity_file = "amenities_region1_trunc.geojson"
 # -------------------------------------------------------
 # 🧭 Initialize Database on Startup
 # -------------------------------------------------------
@@ -34,6 +33,7 @@ def get_osm_amenity_polygon(
 ):
     key = 'amenity'
     value = None
+    print('mock mode: ', mock_mode)
 
     if mock_mode:
         filename = os.path.join(MOCK_FILE_PATH, mock_amenity_file)
