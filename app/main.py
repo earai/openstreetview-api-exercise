@@ -10,6 +10,7 @@ from app.utils import fetch_osm_by_polygon, write_mock_geojson_to_db
 app = FastAPI(title="OSM FastAPI with PostGIS Cache")
 MOCK_FILE_PATH=os.getenv("MOCK_FILE_PATH","./tests/test_data")
 mock_amenity_file = "amenities_region1_trunc.geojson"
+mock_road_file = "osm_roads.geojson"
 # -------------------------------------------------------
 # 🧭 Initialize Database on Startup
 # -------------------------------------------------------
@@ -33,7 +34,6 @@ def get_osm_amenity_polygon(
 ):
     key = 'amenity'
     value = None
-    print('mock mode: ', mock_mode)
 
     if mock_mode:
         filename = os.path.join(MOCK_FILE_PATH, mock_amenity_file)
@@ -47,7 +47,6 @@ def get_osm_amenity_polygon(
         (._;>;);
         out geom;
     """
-    #this returns geojson features)
     return fetch_osm_by_polygon(polygon, key=key, value=value, query_template=query_template, session=session)
 
 # -------------------------------------------------------
@@ -56,8 +55,17 @@ def get_osm_amenity_polygon(
 @app.post("/osm/roads/polygon")
 def get_osm_roads_polygon(
     polygon: dict = Body(...),
+    mock_mode: bool = Query(False, description="If true, return mock roads data instead of querying OSM"),
     session: Session = Depends(get_session)
 ):
+
+    key = 'highway'
+    value = None
+
+    if mock_mode:
+        filename = os.path.join(MOCK_FILE_PATH, mock_road_file)
+        return write_mock_geojson_to_db(filename, key, value, session)
+
     query_template = """
         [out:json];
         (
@@ -66,5 +74,5 @@ def get_osm_roads_polygon(
         (._;>;);
         out geom;
     """
-    return fetch_osm_by_polygon(polygon, key="highway", value=None, query_template=query_template, session=session)
+    return fetch_osm_by_polygon(polygon, key=key, value=value, query_template=query_template, session=session)
 
