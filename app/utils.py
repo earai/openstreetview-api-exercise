@@ -41,11 +41,8 @@ def write_mock_geojson_to_db(filename: str, key, value, session):
     Writes mock geojson data to the database.
     """
     features = load_mock_file(filename)
-    print("in write mock geojson to db")
-    print("features", features)
     polygon = create_polygon_from_geojson_features(features)
     aoi_wkt = create_aoi_from_polygon(polygon)
-    print("aoi_wkt", aoi_wkt)
     try:
         if crud.is_area_covered(session, aoi_wkt, key, value):
             return crud.get_cached_features_intersecting(session, aoi_wkt, key, value)
